@@ -52,7 +52,10 @@ python3 train.py -h
 
 ## Evaluation
 
-After training the network, the network can be evaluated with the weighted F measure score on the UMD dataset. We also provide pretrained weights trained on AFF-Synth https://drive.google.com/file/d/1v2JffkJ9QH5e68th98VLb1L3Z8wG2ZdE/view?usp=sharing.
+After training the network, the network can be evaluated with the weighted F measure score on the UMD dataset. We also provide pretrained weights  
+
+Trained on AFF-Synth: https://drive.google.com/file/d/1psCn_aT5KUyQDJrdxqR7GJgHeCewGokS/view?usp=sharing  
+Trained on UMD: https://drive.google.com/file/d/1q_IqXJ04mD4qUl3jxdEkMukMACFLbJIh/view?usp=sharing  
 
 ```
 python3 eval.py
