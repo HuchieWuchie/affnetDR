@@ -8,7 +8,7 @@ Video to come.
 
 ## Links to other repositories
 
-The dataset generator implemented in the Unity game engine can be found here: https://github.com/HuchieWuchie/affordanceSynthetic
+The dataset generator implemented in the Unity game engine can be found here: https://github.com/HuchieWuchie/affordanceSynthetic  
 The ROS node implementation for the UR5 robot can be found here: https://github.com/HuchieWuchie/affnetDRROS
 
 ## Requirements
