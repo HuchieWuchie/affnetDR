@@ -4,7 +4,10 @@ This repository contains the implementation of our AffNet-DR network trained on 
 
 ![alt text](images/image.png)
 
-https://user-images.githubusercontent.com/34643562/156929369-8861a55a-ec6a-4baa-b995-6ec3ed28693a.mp4
+
+
+https://user-images.githubusercontent.com/34643562/156930601-6c346708-aa64-4634-a4c1-de12992b0bf6.mp4
+
 
 
 ## Links to affiliated repositories
