@@ -8,7 +8,7 @@ A synthetic dataset already generated can be downloaded from here https://drive.
 
 
 
-https://user-images.githubusercontent.com/34643562/156930601-6c346708-aa64-4634-a4c1-de12992b0bf6.mp4
+<!--https://user-images.githubusercontent.com/34643562/156930601-6c346708-aa64-4634-a4c1-de12992b0bf6.mp4 -->
 
 
 
