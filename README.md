@@ -1,5 +1,7 @@
 # AffNet-DR
 
+**PDF VERSION OF PAPER HAS BEEN UPLOADED TO THIS REPOSITORY NAMED:** 0544.pdf
+
 This repository contains the implementation of our AffNet-DR network trained on synthetic data for our paper "Learning to Segment Object Affordances on Synthetic Data for Task-oriented Robotic Handovers". AffNet-DR was trained solely on our synthetic object affordance dataset generated in the Unity game engine with the domain randomization method. AffNet-DR performs object detection and affordance segmentation in parallel. The architecture is a modified version of AffordanceNet. 
 
 A synthetic dataset already generated can be downloaded from here https://drive.google.com/file/d/1yRL2JbZhZEsL2O9fKbM_DDJ7U53dogkl/view?usp=sharing
